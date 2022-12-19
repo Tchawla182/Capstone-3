@@ -9,16 +9,14 @@ We hope you find this project useful and look forward to your feedback.
 
 ## Table of Contents
 
-1. [Exploratory Data analysis](https://github.com/Tchawla182/Predicting-the-quality-of-wine-from-its-chemical-composition/blob/main/Notebooks/WINE%20CAPSTONE%20-%20Exploratory%20Data%20Analysis-checkpoint.ipynb)
+1. [Exploratory Data analysis](https://github.com/Tchawla182/Using-NLP-To-Find-the-Most-Predicitve-Words-of-Hotel-Reviews./blob/main/EDA%2C%20Preprocessing%20%26%20Training/Most%20Predictive%20Words%20of%20Hotel%20Reviews%20EDA%2C%20PPT%2C%20and%20Analysis.ipynb)
 
-2. [Pre-processing and Training](https://github.com/Tchawla182/Predicting-the-quality-of-wine-from-its-chemical-composition/blob/main/Notebooks/Wine%20Capstone%20Pre-processing%20and%20training.ipynb)
+2. [Pre-processing and Training](https://github.com/Tchawla182/Using-NLP-To-Find-the-Most-Predicitve-Words-of-Hotel-Reviews./blob/main/EDA%2C%20Preprocessing%20%26%20Training/Most%20Predictive%20Words%20of%20Hotel%20Reviews%20EDA%2C%20PPT%2C%20and%20Analysis.ipynb)
 
-3. Machine Learning
-    +   [Red Wine](https://github.com/Tchawla182/Predicting-the-quality-of-wine-from-its-chemical-composition/blob/main/Notebooks/Wine%20Capstone%20-%20Red%20Wine%20ML%20Modeling.ipynb). 
-    +   [White Wine](https://github.com/Tchawla182/Predicting-the-quality-of-wine-from-its-chemical-composition/blob/main/Notebooks/Wine%20Capstone%20-%20White%20Wine%20ML%20Modeling.ipynb).
+3. [Machine Learning](https://github.com/Tchawla182/Using-NLP-To-Find-the-Most-Predicitve-Words-of-Hotel-Reviews./blob/main/Machine%20Learning/Most%20Predictive%20Words%20of%20Hotel%20Reviews%20-%20Machine%20Learning.ipynb)
 
-4. [Final Report](https://github.com/Tchawla182/Predicting-the-quality-of-wine-from-its-chemical-composition/blob/main/Notebooks/Wine%20Capstone%20Report.pdf)
+4. [Final Report](https://github.com/Tchawla182/Using-NLP-To-Find-the-Most-Predicitve-Words-of-Hotel-Reviews./blob/main/Report/Using%20NLP%20to%20find%20the%20most%20predictive%20words%20of%20hotel%20reviews%20(1).pdf)
 
-5. [Presentation](https://github.com/Tchawla182/Predicting-the-quality-of-wine-from-its-chemical-composition/blob/main/Notebooks/Predicting%20Wine%20Quality%20Based%20off%20their%20physicochemical%20features.pdf)
+5. [Presentation](https://github.com/Tchawla182/Using-NLP-To-Find-the-Most-Predicitve-Words-of-Hotel-Reviews./blob/main/Presentation/Using%20NLP%20to%20Find%20the%20Most%20Predictive%20Words%20of%20Hotel%20Reviews%20-%20Presentation.pdf)
 
-6. [Source Code and Plots](https://github.com/Tchawla182/Predicting-the-quality-of-wine-from-its-chemical-composition/tree/main/plots)
+6. [Source Code and Plots](https://github.com/Tchawla182/Using-NLP-To-Find-the-Most-Predicitve-Words-of-Hotel-Reviews.)
