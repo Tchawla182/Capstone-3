@@ -15,7 +15,7 @@ We hope you find this project useful and look forward to your feedback.
 
 3. [Machine Learning](https://github.com/Tchawla182/Using-NLP-To-Find-the-Most-Predicitve-Words-of-Hotel-Reviews./blob/main/Machine%20Learning/Most%20Predictive%20Words%20of%20Hotel%20Reviews%20-%20Machine%20Learning.ipynb)
 
-4. [Final Report](https://github.com/Tchawla182/Using-NLP-To-Find-the-Most-Predicitve-Words-of-Hotel-Reviews./blob/main/Report/Using%20NLP%20to%20find%20the%20most%20predictive%20words%20of%20hotel%20reviews%20(1).pdf)
+4. [Final Report](https://github.com/Tchawla182/Using-NLP-To-Find-the-Most-Predicitve-Words-of-Hotel-Reviews./blob/main/Report/Using%20NLP%20to%20find%20the%20most%20predictive%20words%20of%20hotel%20reviews%20(2).pdf)
 
 5. [Presentation](https://github.com/Tchawla182/Using-NLP-To-Find-the-Most-Predicitve-Words-of-Hotel-Reviews./blob/main/Presentation/Using%20NLP%20to%20Find%20the%20Most%20Predictive%20Words%20of%20Hotel%20Reviews%20-%20Presentation.pdf)
 
